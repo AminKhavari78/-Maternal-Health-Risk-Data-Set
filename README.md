@@ -1,5 +1,5 @@
 # -Maternal-Health-Risk-Data-Set
-##Data Descriptions
+## Data Descriptions
 Data has been collected from different hospitals, community clinics, maternal health cares through the IoT based risk monitoring system.
 
 Age: Age in years when a woman is pregnant.
@@ -9,5 +9,5 @@ BS: Blood glucose levels is in terms of a molar concentration, mmol/L.
 HeartRate: A normal resting heart rate in beats per minute.
 Risk Level: Predicted Risk Intensity Level during pregnancy considering the previous attribute.
 
-#Solve Problem
+## Solve Problem
 use LinearSVC for predition
